@@ -132,6 +132,5 @@ Unlike the built-in pip tool, pipenv lets us create isolated virtual environment
 
 By the time you finish this book, you’ll have a solid understanding of the basics of Python. From here, you can start building your own projects, like a web crawler, a Django project, or even a deep learning model with PyTorch or TensorFlow. These are the next steps in your Python journey — and we’ll dive into these topics soon!
 
-![image](https://github.com/user-attachments/assets/a23b7714-c7e4-43f2-8f15-750cb34c53c5)
-
+![image](https://github.com/user-attachments/assets/8a2067ba-f3d1-4706-825f-a7116caff60b)
 
